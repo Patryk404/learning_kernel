@@ -1,0 +1,3 @@
+ndisasm ./boot.bin 
+
+boot sector must have 512 bytes
